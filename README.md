@@ -1,5 +1,17 @@
+
+
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Aman Verma</h1>
 <h3 align="center">I'm a Java Backend Developer with hands-on experience in designing, developing, and maintaining projects.</h3>
+
+
+
+<p align="center"> <img src="https://user-images.githubusercontent.com/105967008/197356054-8498f3ca-2ca1-48f4-9d8b-a7b728aa7989.gif" width="600" alt="amanvermai30" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanvermai30&label=Profile%20views&color=0e75b6&style=flat" alt="amanvermai30" /> </p>
 

@@ -15,7 +15,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanvermai30" alt="amanvermai30" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanvermai30&show_icons=true&locale=en&layout=compact" alt="amanvermai30" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=amanvermai30&show_icons=true&locale=en&layout=compact" alt="amanvermai30" /></p>
 
 
 - 🔭 I’m currently working on [Employee Management System](https://github.com/amanvermai30/-Employee-Management-System-Project-1)

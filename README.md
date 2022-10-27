@@ -6,7 +6,7 @@
 
 
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/105967008/197356054-8498f3ca-2ca1-48f4-9d8b-a7b728aa7989.gif" width="600" alt="amanvermai30" /> </p>
+<p align="center"> <img src="" width="600" alt="amanvermai30" /> </p>
 
 <p><img align="center" justifiy-content="center"src="https://github-readme-streak-stats.herokuapp.com/?user=amanvermai30&" width="500"  margin-top="30" alt="amanvermai30" /></p>
 

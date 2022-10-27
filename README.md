@@ -1,12 +1,10 @@
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanvermai30&label=Profile%20views&color=0e75b6&style=flat" alt="amanvermai30" eidth="300"/> </p> <h1 align="center">Hi 👋, I'm Aman Verma</h1>
 <h3 align="center">I'm a Java Backend Developer with hands-on experience in designing, developing, and maintaining projects.</h3>
 
 
 
-<p align="center"> <img src="" width="600" alt="amanvermai30" /> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/105967008/198344738-4a81ad4f-b4e3-4cb9-9fe4-011badd18b48.gif" width="500" alt="amanvermai30" /> </p>
 
 <p><img align="center" justifiy-content="center"src="https://github-readme-streak-stats.herokuapp.com/?user=amanvermai30&" width="500"  margin-top="30" alt="amanvermai30" /></p>
 

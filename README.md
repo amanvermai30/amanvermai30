@@ -23,7 +23,7 @@ A passionate Developer, who loves to create beautiful and functional websites. p
 ⚡ Fast learner<br>
 💬 Ask me about Javascript, Java, HTML, CSS, DSA<br>
 
-📫 How to reach me: vedpaswan01@gmail.com <br>
+📫 How to reach me: vermaamanmr@gmail.com <br>
 
 ⚡ Want to Know More About Experiance: [Check out My Resume](https://1drv.ms/b/s!AlLnUQaCWDjhgQmDzQ1zmSVBZMPR?e=lng1y9)<br>
 

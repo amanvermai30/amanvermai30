@@ -11,7 +11,7 @@
 
 
 ### It's Me
-A passionate Developer, who loves to create beautiful and functional websites. proficient in Web Development, HTML, CSS, JavaScript, Java, Data Structure And Algorithms.Approachable team leader, always keen to take the goal-oriented path to complete the tasks at hand. Looking further to enhance my skills as a full-stack developer.
+I'm a Full Stack Web Developer with hands-on experience in designing, developing, and maintaining projects. Adept at learning, unlearning, and relearning. Demonstrate the capability of managing clean, elegant, and efficient code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms. I'm still enthusiastically grabbing on to multiple programming languages, frameworks, and principles that I can add to my skillset.
 
 
 # About Me:

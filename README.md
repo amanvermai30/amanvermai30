@@ -5,7 +5,7 @@
 <h3 align="center">I'm a Java Backend Developer with hands-on experience in designing, developing, and maintaining projects.</h3>
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcom+to+my+github+Valley;Full+Stack+developer;Java+Backend+Developer;Web+Developer;Adventurer;Problem+Solver;&color=teal&center=true" />
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcom+to+my+github+Valley;Full+Stack+developer;Java+Backend+Developer;Web+Developer;Adventurer;Problem+Solver; Traveller ;&color=teal&center=true" />
 </div>
 
 <img align="right" alt="Coding" width="240" src= "https://user-images.githubusercontent.com/105967008/202180535-f4ef6487-ac8a-4a9f-ac0b-8dbf2723ea6a.png ">

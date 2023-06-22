@@ -35,7 +35,7 @@ Want to know more about me? [Check out My Portfolio](https://amanvermai30.github
 <a href="https://twitter.com/AmanVermai30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ee_aman yadav" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aman-verma-i30/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman yadav" height="30" width="40" /></a>
 <a href="https://https://www.hackerrank.com/creative6392?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amanyadav6750" height="30" width="40" /></a>
-<a href="https://leetcode.com/Amanvermai30/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amanyadav6750" height="30" width="40" /></a>
+<a href="https://leetcode.com/vermaamanmr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amanyadav6750" height="30" width="40" /></a>
 
 </p>
 

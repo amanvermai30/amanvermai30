@@ -1,8 +1,7 @@
   
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanvermai30&label=Profile%20views&color=0e75b6&style=flat" alt="amanvermai30" eidth="300"/> </p> <h1 align="center">Hi 👋, I'm Aman Verma</h1>
-<h3 align="center">I'm a Java Backend Developer with hands-on experience in designing, developing, and maintaining projects.</h3>
--------------------------------------------------------------------------------------------------------------------------------------------------------
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanvermai30&label=Profile%20views&color=0e75b6&style=flat" alt="amanvermai30" eidth="300"/> </p> <h1 align="center">
+---------------------------------------------------------
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcom+to+my+github+Valley;Full+Stack+developer;Java+Backend+Developer;Web+Developer;Adventurer;Problem+Solver;Traveller;&color=teal&center=true" />
 </div>
@@ -17,7 +16,6 @@ Backend Developer with hands-on experience in designing, developing, and maintai
 # About Me:
 <br>
 👯 I’m looking to collaborate on Good Tech Skills<br>
-🌱 I’m currently learning Full Stack Web Development<br>
 💬 Ask me about Adventure...<br>
 👯 Interested in future technologies....<br>
 👯 Self Motivated<br>

@@ -67,11 +67,11 @@ Want to know more about me? [Check out My Portfolio](https://amanvermai30.github
 <h2 align="center" margin-top="20px"><i>GitHub's Analytics <img align="center" height="40" width="55" src="https://media1.giphy.com/media/3oiaLa13GUehTbgDfs/giphy.gif" /></i></h2>
 <hr>
 <p align="left">
-<a href="https://github.com/Vedpswan01">
-  <img align="center" justifiy-content="center"src="https://github-readme-streak-stats.herokuapp.com/?user=amanvermai30&" width="48%"/>
+<a href="https://github.com/amanvermai30">
+<!--   <img align="center" justifiy-content="center"src="https://github-readme-streak-stats.herokuapp.com/?user=amanvermai30&" width="48%"/> -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=amanvermai30&show_icons=true&locale=en" alt="amanvermai30" width="48%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanvermai30&show_icons=true&locale=en&layout=compact" alt="amanvermai30" width="43%"/></p>
   <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amanvermai30&show_icons=true&locale=en&layout=compact" alt="amanvermai30" /></p>
 </a>
 </p>
 <hr>

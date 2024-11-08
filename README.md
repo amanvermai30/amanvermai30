@@ -24,7 +24,7 @@ Backend Developer with hands-on experience in designing, developing, and maintai
 
 📫 How to reach me: vermaamanmr@gmail.com <br>
 
-⚡ Want to Know More About Experiance: [Check out My Resume](https://1drv.ms/b/s!AlLnUQaCWDjhgQmDzQ1zmSVBZMPR?e=lng1y9)<br>
+⚡ Want to Know More About Experiance: [Check out My Resume](https://drive.google.com/file/d/16xCZ4u51wHZtHW56jTAbwq9QU7l9EEnT/view?usp=sharing)<br>
 
 Want to know more about me? [Check out My Portfolio](https://amanvermai30.github.io/)
 
